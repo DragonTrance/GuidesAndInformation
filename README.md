@@ -1,6 +1,6 @@
 # Hello :)
 This repository is a home for different kinds of guides and miscellaneous information that I'd like to share with people. This information is not organized, and should also be taken with a grain of salt. I don't fact-check my information unless I have no idea what I'm talking about. Feel free to look up any concepts I discuss.
 
-To find new guides I create, take a look in [[_Directory]]. Their dates last-updated will be listed next to the subject. I'll try to organize it the best I can so you can find information you need the most, but right now there's not much.
+To find any new guides I create, I use the [Github Wiki Pages](https://github.com/DragonTrance/GuidesAndInformation/wiki). I edit all of these files in the browser, and updates will be live as soon as I make edits. I organize it to the best I can, but right now there's not much.
 
-I use [Obsidian](https://obsidian.md) to edit my markdown files. If anything looks weird, that's my excuse. If you'd like, you can [download this repository](https://github.com/DragonTrance/GuidesAndInformation/archive/refs/heads/main.zip) and view it with Obsidian. I think it's great.
+New images are uploaded in the [[files]] directory. You can look through here to scroll through the gallery we have, but they will probably always be on the wiki pages.
