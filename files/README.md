@@ -1,0 +1,3 @@
+All of the files/images used in the Wiki pages are most likely originated from this folder.
+
+Maybe at some point, the images would be put on this markdown document...
